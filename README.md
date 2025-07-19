@@ -24,9 +24,15 @@
 
 - Unity/C#：2年　認知脳トレゲームを開発
 - SQLiteでスコア保存・ランキング機能も実装
-- [GitHubリンク](https://unityroom.com/games/kaitou_final)
+- [ゲームunityroomリンク](https://unityroom.com/games/kaitou_final)
 
 ---
+
+
+##  🎞️ 3. After Effectsアニメ試作
+
+- After Effects：2年　
+- [デモ動画リンク](https://vimeo.com/1102719006?share=copy)
 
 ## 🎨 3. UI/UX改善プロジェクト【Figma・デザイン思考】
 
