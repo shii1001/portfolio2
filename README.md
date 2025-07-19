@@ -20,41 +20,31 @@
 
 ---
 
-## 🎨 2. UI/UX改善プロジェクト【Figma・デザイン思考】
+## 🎮 2. Unityゲーム試作（認知脳トレゲーム）
+
+- Unity/C#：2年　認知脳トレゲームを開発
+- SQLiteでスコア保存・ランキング機能も実装
+- [GitHubリンク](https://unityroom.com/games/kaitou_final)
+
+---
+
+## 🎨 3. UI/UX改善プロジェクト【Figma・デザイン思考】
 
 #### ▶ 概要
 
 #### ▶ 文脈と課題の背景
-<img src="./codeconnect1.png" width="600"/>
+<img src="./codeconnect1.png" width="300"/>
 
 #### ▶ ニーズ・インサイト
-<img src="./codeconnect2.png" width="600"/>
+<img src="./codeconnect2.png" width="300"/>
 
 #### ▶ 実施内容と成果
-<img src="./codeconnect3.png" width="600"/>
-<img src="./codeconnect4.png" width="600"/>
+<img src="./codeconnect3.png" width="300"/>
+<img src="./codeconnect4.png" width="300"/>
 #### ▶ 成果物
 - [アプリのURLはこちら](https://v0.dev/chat/student-skill-sharing-app-iFlI2Q3qB5G)
 
 
-## 🎮 3. Unityゲーム試作（認知脳トレゲーム）
-
-- Unity/C#：2年　認知脳トレゲームを開発
-- SQLiteでスコア保存・ランキング機能も実装
-- [GitHubリンク（動画付き）](https://github.com/your-username/unity-mini-game)
-
----
-
-## 🌐 4. Webアプリ開発（リアルタイム通信・仮想環境構築）
-
-### ▶ 概要
-Node.js / Socket.io を使ったリアルタイム通信Webアプリケーションを開発。仮想Linux環境上にWEBサーバを構築し、スクリプト処理・DB接続・ブラウザ動作まで実装。解説資料も作成済。
-
-- JavaScript / HTML / CSS / SQL / AWS / Linux を活用
-- 条件：仮想環境構築・スクリプト処理・DB処理・ブラウザ動作確認・CHAPTER6,8,9設定
-- 提出形式：ソースコード＋設定手順PDF（画面キャプチャ付き）
-
----
 
 ## 🛠 スキルセット
 
