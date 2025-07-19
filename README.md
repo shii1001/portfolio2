@@ -34,7 +34,7 @@
 <img src="./codeconnect3.png" width="600"/>
 <img src="./codeconnect4.png" width="600"/>
 #### ▶ 成果物
-- [詳細PDFはこちら](./uiux_proposal.pdf)
+- [アプリのURLはこちら](https://v0.dev/chat/student-skill-sharing-app-iFlI2Q3qB5G)
 
 
 ## 🎮 3. Unityゲーム試作（認知脳トレゲーム）
