@@ -15,8 +15,7 @@
 
 - 自己学習 → 実装 → UI改善まで一貫して担当
 - 技術：Python（Blender API）、GUI設計
-- [GitHub リンク](https://github.com/your-username/blender-addon)  
-- ![demo.gif](demo-image.gif)
+- [GitHub リンク](https://github.com/shii1001/portfolio)
 
 ---
 
